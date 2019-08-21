@@ -1,0 +1,3 @@
+Git is central repo
+version control tool
+we can configure with jenkins
