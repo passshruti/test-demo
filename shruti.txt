@@ -3,6 +3,10 @@ aug
 sept
 nov
 sept
+<<<<<<< HEAD
 
 mindtree
 accenture
+=======
+maa tujhe salam
+>>>>>>> 3aefa4413093d4b7f1b6b3f1ed8729bf16b4c9a5
